@@ -1,0 +1,31 @@
+{
+  "data" :[
+  {
+    "type": "fruit",
+    "name": "apple",
+    "number": "2",
+    "entryTime": "2020-10-4",
+    "vitamins": "3",
+    "carbohydrates": "2",
+    "calories" : "1"
+  },
+  {
+    "type": "fruit",
+    "name": "banana",
+    "number": "3",
+    "entryTime": "2020-9-4",
+    "vitamins": "3",
+    "carbohydrates": "2",
+    "calories" : "1"
+  },
+  {
+    "type": "meat",
+    "name": "egg",
+    "number": "3",
+    "entryTime": "2020-3-4",
+    "vitamins": "3",
+    "carbohydrates": "2",
+    "calories" : "5"
+  }
+]
+}
